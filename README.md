@@ -8,3 +8,6 @@ Proyecto para la materia de Introducción a la IA para ciencias e ingenierías
 
 # Enlace a la fuente de los datos usados:
 https://www.kaggle.com/competitions/costa-rican-household-poverty-prediction/data
+
+#Video entrega 2
+https://youtu.be/9ViSlyyjUkc
