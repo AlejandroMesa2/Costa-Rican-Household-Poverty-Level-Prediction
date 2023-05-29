@@ -11,3 +11,6 @@ https://www.kaggle.com/competitions/costa-rican-household-poverty-prediction/dat
 
 # Video entrega 2:
 https://youtu.be/9ViSlyyjUkc
+
+# Video entrega final:
+https://youtu.be/HA0PL1AwWqA
